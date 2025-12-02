@@ -1,11 +1,17 @@
 ### Hello there 👋  
 #### Debugging life one sleepless night at a time
 
-I'm a full-stack / systems dev who builds things that accidentally scale.
+Full-stack / systems developer.  
+I build small things that somehow end up scaling.
 
-### Currently maintaining
-**AirDelivery.site** — P2P file transfers for 30,000+ people who don’t want to use Google Drive.
+---
+
+### Maintaining
+**[AirDelivery.site](https://github.com/GochiStuff/airdelivery)**  
+P2P file transfers used by **30,000+** people who don’t want to rely on Google Drive.
+
+---
 
 ### Find me
-GitHub: @GochiStuff  
-LinkedIn: /yashjangidofficial
+**GitHub:** [@GochiStuff](https://github.com/GochiStuff)  
+**LinkedIn:** [/yashjangidofficial](https://linkedin.com/in/yashjangidofficial)
