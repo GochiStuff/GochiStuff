@@ -1,10 +1,9 @@
-# Yash
+### Yash
 
-Full-stack / systems developer.  
-I build small things that sometimes scale.
+Shipping ideas into real systems.  
+Some of them scale.
 
-Currently building → https://cobbic.com  
-Maintaining → https://airdelivery.site (30k+ users)
+Now → https://cobbic.com  
+P2P → https://airdelivery.site (30k+)
 
-GitHub → https://github.com/GochiStuff  
-LinkedIn → https://linkedin.com/in/yashjangidofficial
+@GochiStuff
